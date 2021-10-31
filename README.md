@@ -4,7 +4,7 @@ w0d0_precourse-challenge-srouas created by GitHub Classroom
 https://schoolofcode.github.io/w0d0_precourse-challenge-srouas/
 # Soufian Rouas pre-course project: Monkey D. Luffy Tribute Page
 
-I chose to make a tribute page on the main character from * *'One Piece'* * because he's a character I like, from a show I enjoy - and because I was little lost on who to do it on :sweat_smile:.
+I chose to make a tribute page on the main character from *'One Piece'* because he's a character I like, from a show I enjoy - and because I was little lost on who to do it on :sweat_smile:.
 
 I built this while learning (still currently learning) HTML & CSS Basics, so it was good to practice my new skills and start to get used to coding in these languages. 
 
