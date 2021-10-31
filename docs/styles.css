@@ -1,0 +1,36 @@
+body {
+  font-family: fantasy;
+  background-color: lightcyan;
+}
+#img-div {
+  background-color: lightblue;
+}
+.facts {
+  color: darkred;
+}
+h1 {
+  color: darkred;
+}
+#image,
+.image {
+  border-color: yellow;
+  border-width: 5px;
+  border-style: solid;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  text-align: center;
+  color: burlywood;
+  font-size: 1rem;
+}
+#title {
+  font-size: 5rem;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+ul {
+  list-style-position: inside;
+}
